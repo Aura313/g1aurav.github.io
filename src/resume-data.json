@@ -1,0 +1,134 @@
+{
+  "name": "Gaurav Kumar",
+  "personBio": "Full Stack Developer, Software Architect",
+  "socialLinks": [
+    {
+      "address": "https://github.com/g1aurav",
+      "icon": "fab fa-github"
+    },
+    {
+      "address": "https://www.linkedin.com/in/g1aurav/",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "address": "https://medium.com/@gauravkumar_1512/highlights",
+      "icon": "fab fa-medium"
+    },
+    {
+      "address": "https://stackoverflow.com/users/3809978/gaurav",
+      "icon": "fab fa-stack-overflow"
+    },
+    {
+      "address": "https://twitter.com/g11aurav",
+      "icon": "fab fa-twitter"
+    },
+    {
+      "address": "mailto:gauravkumar0154@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "shortDescription": "I am a Full stack developer interested in latest frontend and backend web technologies. I have experience of working on various javascript frameworks such Angularjs, NodeJs, React, VueJs etc. I have fair exposure to data analytics and machine learning using Python and R. I am looking forward to work with Individuals/organisations working with AI and Web technologies to help solve exciting real world problems.",
+  "keySkills": {
+    "mainSkills": [
+      {
+        "name": "Node.js",
+        "level": 90,
+        "logo": "nodejs.png"
+      },
+      {
+        "name": "Javascript",
+        "level": 90,
+        "logo": "js.png"
+      },
+      {
+        "name": "Typescript",
+        "level": 70,
+        "logo": "typescript.jpeg"
+      },
+      {
+        "name": "React",
+        "level": 90,
+        "logo": "react.png"
+      },
+      {
+        "name": "Oracle",
+        "level": 90,
+        "logo": "oracle.png"
+      },
+      {
+        "name": "MySQL",
+        "level": 60,
+        "logo": "mysql.png"
+      },
+      {
+        "name": "SQL Server",
+        "level": 80,
+        "logo": "mssql.jpg"
+      },
+      {
+        "name": "MongoDB",
+        "level": 50,
+        "logo": "mongodb.png"
+      }
+    ],
+    "others": [
+      "Microservices",
+      "ORM",
+      "Redis",
+      "RabbitMQ",
+      "Thread&Socket Programming",
+      "Frontend Architectures",
+      "Opensource",
+      "Continuous Integration",
+      "Continuous Delivery",
+      "Agile/Scrum"
+    ]
+  },
+  "experience": [
+    {
+      "start": "06.2016",
+      "end": "Present",
+      "title": "Fullstack Developer",
+      "company": "Codalyze Technologies",
+      "location": "Mumbai",
+      "logo": "codalyze.png",
+      "jobs": [
+        "Full stack javascript developer. Working on AngularJs, VueJS, Nodejs projects. While working here I had exposure to all facets of web and app development including DevOps and design. From initiating a repo from scratch to getting it running with multiples load balancers on aws, I have got chances to do it all here."
+      ]
+    },
+    {
+      "start": "06.2015",
+      "end": "05.2016",
+      "title": "Data Analyst",
+      "company": "Latentview Analytics",
+      "location": "Mumbai",
+      "logo": "latentview.png",
+      "jobs": [
+        "Creating interactive reports using Tableau and MS Excel to enhance data visualization and provide actionable insights. Modelling using R and SAS for predictive analysis."
+      ]
+    },
+    {
+      "start": "08.2014",
+      "end": "09.2014",
+      "title": "Web Developer (Intern)",
+      "company": "Pinquin",
+      "location": "Vellore",
+      "logo": "pinquin.png",
+      "jobs": [
+        "Responsible for developing the front end of a social networking site using angular js and node js framework. Since it was a remote internship hence i had to collaborate with the back end team using project management techniques such as github and workamajig."
+      ]
+    },
+    {
+      "start": "06.2014",
+      "end": "07.2014",
+      "title": "Web Developer (Intern)",
+      "company": "Edroot Analytics",
+      "location": "Mumbai",
+      "logo": "edroot.png",
+      "jobs": [
+        "Developing an interactive dashboard using angular js and twitter bootstrap framework. Using open source libraries to implement various charts and graphs. Had to work on algorithms for suggesting strategies to candidates based on their test scores."
+      ]
+    }
+  ],
+  "portfolio": []
+}
